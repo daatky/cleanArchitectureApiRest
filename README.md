@@ -27,7 +27,7 @@ La estructura del proyecto fue elaborado aplicando los principios de Clean Archi
 #### **Drivers**
 - Contenido que depende explicitamente del framework o librerias, es de caracter compartido para todas las entidades en general.
 
-Por cada entidad de tu negocio:
+#### Por cada entidad de tu negocio:
 
 #### **Entidad**
 - Se encarga de la creacion, validacion y lectura de cada entidad del modelo de negocio. Esta descrito de forma general usando logica personalizada sin incluir o depender de los modelos de implementacion de la base de datos a utilizar.
