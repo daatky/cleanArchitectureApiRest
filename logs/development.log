@@ -1,0 +1,360 @@
+[2020-06-12T08:31:44.251] [INFO] cheese - Server started at port:5000
+[2020-06-12T08:31:44.268] [INFO] cheese - Moongose default connection is open:localhost:27017/gazeLook_dev
+[2020-06-12T08:33:29.541] [INFO] cheese - Moongose default connection is open:localhost:27017/gazeLook_dev
+[2020-06-12T08:33:29.543] [INFO] cheese - Server started at port:5000
+[2020-06-12T08:33:37.734] [INFO] cheese - Moongose default connection is open:localhost:27017/gazeLook_dev
+[2020-06-12T08:33:37.736] [INFO] cheese - Server started at port:5000
+[2020-06-12T08:34:01.965] [INFO] cheese - Moongose default connection is open:localhost:27017/gazeLook_dev
+[2020-06-12T08:34:01.967] [INFO] cheese - Server started at port:5000
+[2020-06-22T12:16:37.120] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:16:37.195] [INFO] default - 
+[2020-06-22T12:17:38.819] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:17:38.880] [INFO] default - 
+[2020-06-22T12:18:07.066] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:18:07.069] [INFO] default - 
+[2020-06-22T12:19:09.747] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:19:09.751] [INFO] default - 
+[2020-06-22T12:19:28.097] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:19:28.100] [INFO] default - 
+[2020-06-22T12:37:13.903] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:37:13.905] [INFO] default - 
+[2020-06-22T12:42:16.968] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:42:16.970] [INFO] default - 
+[2020-06-22T12:43:20.606] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:43:20.610] [INFO] default - 
+[2020-06-22T12:43:43.208] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:43:43.212] [INFO] default - 
+[2020-06-22T12:44:09.903] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:44:09.911] [INFO] default - 
+[2020-06-22T12:44:13.170] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:44:13.174] [INFO] default - 
+[2020-06-22T12:44:23.441] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:44:23.444] [INFO] default - 
+[2020-06-22T12:47:40.262] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:47:40.267] [INFO] default - 
+[2020-06-22T12:48:25.590] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:48:25.594] [INFO] default - listening to port:5000
+[2020-06-22T12:49:07.765] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:49:07.770] [INFO] default - listening to port:5000
+[2020-06-22T12:49:39.369] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T12:49:39.373] [INFO] default - listening to port:5000
+[2020-06-22T13:18:15.721] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:18:15.745] [INFO] default - listening to port:5000
+[2020-06-22T13:27:50.796] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:27:50.807] [INFO] default - listening to port:5000
+[2020-06-22T13:30:50.960] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:30:50.972] [INFO] default - listening to port:5000
+[2020-06-22T13:41:08.457] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:41:08.469] [INFO] default - listening to port:5000
+[2020-06-22T13:53:51.933] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:53:51.938] [INFO] default - listening to port:5000
+[2020-06-22T13:54:50.108] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:54:50.112] [INFO] default - listening to port:5000
+[2020-06-22T13:55:55.144] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:55:55.148] [INFO] default - listening to port:5000
+[2020-06-22T13:56:32.240] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:56:32.244] [INFO] default - listening to port:5000
+[2020-06-22T13:57:16.176] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:57:16.181] [INFO] default - listening to port:5000
+[2020-06-22T13:59:05.131] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T13:59:05.134] [INFO] default - listening to port:5000
+[2020-06-22T14:10:16.639] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:10:16.643] [INFO] default - listening to port:5000
+[2020-06-22T14:11:57.042] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:11:57.046] [INFO] default - listening to port:5000
+[2020-06-22T14:12:39.932] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:12:39.937] [INFO] default - listening to port:5000
+[2020-06-22T14:14:57.290] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:14:57.294] [INFO] default - listening to port:5000
+[2020-06-22T14:15:24.460] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:15:24.464] [INFO] default - listening to port:5000
+[2020-06-22T14:20:59.009] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:20:59.013] [INFO] default - listening to port:5000
+[2020-06-22T14:35:02.357] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:35:02.362] [INFO] default - listening to port:5000
+[2020-06-22T14:44:41.078] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:44:41.083] [INFO] default - listening to port:5000
+[2020-06-22T14:45:10.918] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:45:10.923] [INFO] default - listening to port:5000
+[2020-06-22T14:45:34.658] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:45:34.662] [INFO] default - listening to port:5000
+[2020-06-22T14:48:36.861] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:48:36.865] [INFO] default - listening to port:5000
+[2020-06-22T14:50:03.276] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:50:03.280] [INFO] default - listening to port:5000
+[2020-06-22T14:50:37.409] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:50:37.413] [INFO] default - listening to port:5000
+[2020-06-22T14:55:17.101] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:55:17.107] [INFO] default - listening to port:5000
+[2020-06-22T14:55:44.545] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:55:44.550] [INFO] default - listening to port:5000
+[2020-06-22T14:56:30.475] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T14:56:30.478] [INFO] default - listening to port:5000
+[2020-06-22T15:34:47.054] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:34:47.059] [INFO] default - listening to port:5000
+[2020-06-22T15:35:00.336] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:35:00.340] [INFO] default - listening to port:5000
+[2020-06-22T15:37:06.402] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:37:06.407] [INFO] default - listening to port:5000
+[2020-06-22T15:37:10.990] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:37:10.994] [INFO] default - listening to port:5000
+[2020-06-22T15:37:15.198] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:37:15.202] [INFO] default - listening to port:5000
+[2020-06-22T15:37:54.909] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:37:54.914] [INFO] default - listening to port:5000
+[2020-06-22T15:38:18.616] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:38:18.621] [INFO] default - listening to port:5000
+[2020-06-22T15:41:09.487] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T15:41:09.491] [INFO] default - listening to port:5000
+[2020-06-22T16:16:33.134] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T16:16:33.138] [INFO] default - listening to port:5000
+[2020-06-22T16:18:55.716] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T16:18:55.721] [INFO] default - listening to port:5000
+[2020-06-22T16:34:41.791] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T16:34:41.795] [INFO] default - listening to port:5000
+[2020-06-22T16:38:36.165] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T16:38:36.172] [INFO] default - listening to port:5000
+[2020-06-22T16:42:05.068] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T16:42:05.072] [INFO] default - listening to port:5000
+[2020-06-22T16:42:05.701] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.25.0, referer => . Data de la peticion: 
+[2020-06-22T16:43:08.557] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.25.0, referer => . Data de la peticion: [object Object]
+[2020-06-22T16:43:53.458] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.25.0, referer => . Data de la peticion: [object Object]
+[2020-06-22T16:45:24.445] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.25.0, referer => . Data de la peticion: 
+[2020-06-22T18:06:24.463] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-22T18:06:24.474] [INFO] default - listening to port:5000
+[2020-06-23T08:21:32.301] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:21:32.305] [INFO] default - listening to port:5000
+[2020-06-23T08:21:36.342] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion: 
+[2020-06-23T08:23:00.888] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:23:00.892] [INFO] default - listening to port:5000
+[2020-06-23T08:23:09.242] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion: {"email":"daatky@gmail.com","password":"qwe21232"}
+[2020-06-23T08:31:20.661] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:31:20.665] [INFO] default - listening to port:5000
+[2020-06-23T08:35:23.083] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:35:23.087] [INFO] default - listening to port:5000
+[2020-06-23T08:35:31.110] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method:POST Body: {"email":"daatky@gmail.com","password":"qwe21232"} Query: [object Object] Params: [object Object]
+[2020-06-23T08:36:19.787] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:36:19.791] [INFO] default - listening to port:5000
+[2020-06-23T08:36:21.122] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method:POST Body: {"email":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T08:36:45.757] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:36:45.761] [INFO] default - listening to port:5000
+[2020-06-23T08:37:34.340] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:37:34.344] [INFO] default - listening to port:5000
+[2020-06-23T08:37:39.147] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T08:37:50.514] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T08:37:50.515] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion: 
+[2020-06-23T08:38:04.936] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T08:38:04.936] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion: 
+[2020-06-23T08:39:03.972] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T08:39:03.976] [INFO] default - listening to port:5000
+[2020-06-23T08:39:07.573] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T09:00:38.050] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:00:38.058] [INFO] default - listening to port:5000
+[2020-06-23T09:03:31.292] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:03:31.297] [INFO] default - listening to port:5000
+[2020-06-23T09:03:34.491] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T09:04:18.539] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:04:18.543] [INFO] default - listening to port:5000
+[2020-06-23T09:27:57.414] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:27:57.423] [INFO] default - listening to port:5000
+[2020-06-23T09:28:10.192] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:28:10.197] [INFO] default - listening to port:5000
+[2020-06-23T09:28:32.103] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:28:32.107] [INFO] default - listening to port:5000
+[2020-06-23T09:29:02.018] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:29:02.022] [INFO] default - listening to port:5000
+[2020-06-23T09:29:08.019] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:29:08.023] [INFO] default - listening to port:5000
+[2020-06-23T09:29:41.565] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:29:41.569] [INFO] default - listening to port:5000
+[2020-06-23T09:31:04.826] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:31:04.830] [INFO] default - listening to port:5000
+[2020-06-23T09:31:40.079] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:31:40.084] [INFO] default - listening to port:5000
+[2020-06-23T09:31:51.915] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:31:51.919] [INFO] default - listening to port:5000
+[2020-06-23T09:31:58.505] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:31:58.510] [INFO] default - listening to port:5000
+[2020-06-23T09:32:01.156] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:32:01.160] [INFO] default - listening to port:5000
+[2020-06-23T09:32:36.116] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:32:36.120] [INFO] default - listening to port:5000
+[2020-06-23T09:38:09.765] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:38:09.769] [INFO] default - listening to port:5000
+[2020-06-23T09:44:03.657] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:44:03.661] [INFO] default - listening to port:5000
+[2020-06-23T09:44:11.407] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T09:44:11.411] [INFO] default - listening to port:5000
+[2020-06-23T10:12:13.535] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:12:13.540] [INFO] default - listening to port:5000
+[2020-06-23T10:19:36.868] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:19:36.872] [INFO] default - listening to port:5000
+[2020-06-23T10:27:47.952] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:27:47.956] [INFO] default - listening to port:5000
+[2020-06-23T10:27:51.664] [INFO] default - Request recibida a /v1/usuarios/obteuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T10:28:36.370] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:28:36.374] [INFO] default - listening to port:5000
+[2020-06-23T10:30:14.841] [INFO] default - Request recibida a /v1/usuarios/obteu de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T10:33:53.869] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T10:51:08.416] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:51:08.420] [INFO] default - listening to port:5000
+[2020-06-23T10:51:25.805] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:51:25.809] [INFO] default - listening to port:5000
+[2020-06-23T10:51:27.689] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T10:52:12.776] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:52:12.780] [INFO] default - listening to port:5000
+[2020-06-23T10:52:14.945] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T10:52:29.396] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:52:29.400] [INFO] default - listening to port:5000
+[2020-06-23T10:52:41.863] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:52:41.867] [INFO] default - listening to port:5000
+[2020-06-23T10:58:29.451] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:58:29.455] [INFO] default - listening to port:5000
+[2020-06-23T10:58:31.524] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T10:58:59.100] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:58:59.105] [INFO] default - listening to port:5000
+[2020-06-23T10:59:00.907] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T10:59:11.907] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T10:59:11.912] [INFO] default - listening to port:5000
+[2020-06-23T10:59:12.799] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:00:41.877] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:00:41.882] [INFO] default - listening to port:5000
+[2020-06-23T11:00:46.316] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:01:07.142] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:01:07.147] [INFO] default - listening to port:5000
+[2020-06-23T11:01:09.555] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:01:55.899] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:01:55.903] [INFO] default - listening to port:5000
+[2020-06-23T11:01:58.220] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:06:43.518] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:06:43.522] [INFO] default - listening to port:5000
+[2020-06-23T11:06:45.212] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:07:52.418] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:07:52.422] [INFO] default - listening to port:5000
+[2020-06-23T11:07:56.036] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:09:05.086] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:09:05.090] [INFO] default - listening to port:5000
+[2020-06-23T11:09:07.923] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:10:55.104] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:10:55.108] [INFO] default - listening to port:5000
+[2020-06-23T11:10:58.082] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:11:30.127] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:11:30.130] [INFO] default - listening to port:5000
+[2020-06-23T11:11:31.811] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:12:16.621] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:12:16.625] [INFO] default - listening to port:5000
+[2020-06-23T11:12:19.009] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emil":"daatky@gmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:12:35.529] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"emial":"daatkygmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:12:42.840] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkygmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:12:56.342] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:12:56.346] [INFO] default - listening to port:5000
+[2020-06-23T11:13:11.846] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:13:11.850] [INFO] default - listening to port:5000
+[2020-06-23T11:13:26.365] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:13:26.370] [INFO] default - listening to port:5000
+[2020-06-23T11:14:15.393] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:14:15.397] [INFO] default - listening to port:5000
+[2020-06-23T11:14:31.898] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:14:31.903] [INFO] default - listening to port:5000
+[2020-06-23T11:14:34.659] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkygmail.com","password":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:14:40.006] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkygmail.com","passwd":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:14:46.792] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","passwd":"qwe21232"} Query: {} Params: {}
+[2020-06-23T11:16:56.367] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:22:29.127] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:22:29.131] [INFO] default - listening to port:5000
+[2020-06-23T11:23:53.203] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:23:53.208] [INFO] default - listening to port:5000
+[2020-06-23T11:25:18.588] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:25:18.592] [INFO] default - listening to port:5000
+[2020-06-23T11:25:19.950] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:25:35.930] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:25:35.934] [INFO] default - listening to port:5000
+[2020-06-23T11:25:36.432] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:26:03.665] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:26:04.241] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:26:23.264] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:26:23.268] [INFO] default - listening to port:5000
+[2020-06-23T11:26:23.375] [INFO] default - Request recibida a /crearUsuario de:  IP => ::ffff:127.0.0.1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:26:38.178] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:26:38.184] [INFO] default - listening to port:5000
+[2020-06-23T11:26:38.253] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:28:08.600] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:28:08.604] [INFO] default - listening to port:5000
+[2020-06-23T11:28:09.000] [INFO] default - Request recibida a /crearUsuario de:  IP => ::ffff:127.0.0.1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:32:21.939] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:32:21.943] [INFO] default - listening to port:5000
+[2020-06-23T11:32:22.009] [INFO] default - Request recibida a /crearUsuario de:  IP => ::ffff:127.0.0.1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:38:47.777] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:38:47.782] [INFO] default - listening to port:5000
+[2020-06-23T11:38:49.098] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:40:22.554] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:40:22.558] [INFO] default - listening to port:5000
+[2020-06-23T11:40:23.053] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:40:38.777] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:40:38.782] [INFO] default - listening to port:5000
+[2020-06-23T11:40:38.805] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"qwe32"} Query: {} Params: {}
+[2020-06-23T11:41:12.263] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:41:12.267] [INFO] default - listening to port:5000
+[2020-06-23T11:41:16.009] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":""} Query: {} Params: {}
+[2020-06-23T11:43:09.698] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:43:09.705] [INFO] default - listening to port:5000
+[2020-06-23T11:43:41.119] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:43:41.131] [INFO] default - listening to port:5000
+[2020-06-23T11:43:44.799] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":""} Query: {} Params: {}
+[2020-06-23T11:43:48.744] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"asdasd"} Query: {} Params: {}
+[2020-06-23T11:43:52.527] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatky@gmail.com","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T11:43:57.682] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkyl.com","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T11:44:05.690] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T11:44:36.770] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:44:36.774] [INFO] default - listening to port:5000
+[2020-06-23T11:44:48.608] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T11:47:53.774] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:47:53.778] [INFO] default - listening to port:5000
+[2020-06-23T11:57:56.287] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T11:57:56.292] [INFO] default - listening to port:5000
+[2020-06-23T11:57:59.296] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T13:17:32.649] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T13:18:27.055] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:18:27.059] [INFO] default - listening to port:5000
+[2020-06-23T13:18:31.348] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:18:31.352] [INFO] default - listening to port:5000
+[2020-06-23T13:23:03.716] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:23:03.720] [INFO] default - listening to port:5000
+[2020-06-23T13:23:04.691] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa"} Query: {} Params: {}
+[2020-06-23T13:23:17.115] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatkaa@ylcom","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T13:23:25.932] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T13:24:09.361] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:24:09.366] [INFO] default - listening to port:5000
+[2020-06-23T13:24:09.720] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T13:24:55.824] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:24:55.828] [INFO] default - listening to port:5000
+[2020-06-23T13:24:58.636] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T13:33:15.526] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:33:15.532] [INFO] default - listening to port:5000
+[2020-06-23T13:50:44.255] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:50:44.259] [INFO] default - listening to port:5000
+[2020-06-23T13:50:59.733] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T13:50:59.737] [INFO] default - listening to port:5000
+[2020-06-23T13:51:03.342] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T14:00:02.721] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T14:00:02.725] [INFO] default - listening to port:5000
+[2020-06-23T14:00:03.503] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"asdasdaaa","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T14:00:07.624] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T14:01:20.915] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T14:01:20.919] [INFO] default - listening to port:5000
+[2020-06-23T14:01:21.611] [INFO] default - Request recibida a /crearUsuario de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: POST Body: {"email":"daatk@fmail.com","password":"","test":"ssssss"} Query: {} Params: {}
+[2020-06-23T14:06:40.252] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-23T16:59:48.495] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-23T16:59:48.512] [INFO] default - listening to port:5000
+[2020-06-24T10:12:12.853] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-24T10:12:12.857] [INFO] default - listening to port:5000
+[2020-06-24T10:12:15.085] [INFO] default - Request recibida a /obtenerUsuarios de:  IP => ::1, browser => PostmanRuntime/7.26.1, referer => . Data de la peticion, Method: GET Body: {} Query: {} Params: {}
+[2020-06-24T18:24:38.041] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-24T18:24:38.058] [INFO] default - listening to port:5000
+[2020-06-25T08:20:15.857] [ERROR] default - MongoDB conexion error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2020-06-25T08:24:02.710] [ERROR] default - MongoDB conexion error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2020-06-25T08:41:55.711] [ERROR] default - MongoDB conexion error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2020-06-25T08:43:24.943] [ERROR] default - MongoDB conexion error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2020-06-25T08:45:48.009] [ERROR] default - MongoDB conexion error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+[2020-06-26T16:23:07.699] [INFO] default - Mongoose conexion por defecto abierta en localhost:27017/gazeLook_dev
+[2020-06-26T16:23:07.701] [INFO] default - listening to port:5000
